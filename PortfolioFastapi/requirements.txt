@@ -1,0 +1,7 @@
+python-multipart
+fastapi
+uvicorn
+stripe
+python-dotenv
+pymongo
+jinja2
